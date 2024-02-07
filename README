@@ -1,0 +1,3 @@
+This is a three pages fully responsive website for an IT consultaing comapny.
+The landing page include three components:  item menu Nav bar using bootstrap, a hero section styled with a faded background picture and two animated bottons.  Services section using list of annimated of flex-box accompanied by box-icons.
+A blog and contact us pages with a mix of inline, internal, and external styling......
